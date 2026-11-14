@@ -1,0 +1,7 @@
+{
+  "name": "防撤回",
+  "description": "别人删除消息后，消息仍留在你的屏幕上（可加提示文字）。",
+  "authors": [{ "name": "Claude" }],
+  "main": "index.js",
+  "hash": "381b26cee37ef1afe231824198da5425ecef8699aaee9cd47ce06527f27262c1"
+}
